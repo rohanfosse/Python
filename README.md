@@ -1,5 +1,7 @@
 # Python
 
+> Ce cours se poursuit, à jour et exécutable dans le navigateur, dans le [parcours Python de Page vive](https://pagevive.fr/python).
+
 Ce cours est une introduction à la programmation en Python. Il couvre les concepts de base de la programmation, tels que les variables, les opérations arithmétiques, les structures conditionnelles, les boucles et les fonctions. Chaque section contient des explications détaillées et des exemples de code pour vous aider à comprendre et à pratiquer ces concepts.
 
 ## Prérequis
